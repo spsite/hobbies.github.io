@@ -1,0 +1,109 @@
+/* My Custom CSS */
+
+body {
+    background-color: #037FDE;
+    padding-top: 0px;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.navbar-brand {
+    font-family: 'Erica One', cursive;
+    font-size: large;
+    color: #E2D8FF;
+}
+
+.navbar-dark .navbar-brand {
+    color: #E2D8FF;
+}
+
+.navbar {
+    background-color: #004C85;
+    color: #E2D8FF;
+}
+
+.nav {
+    padding: 0px;
+}
+
+img {
+   
+}
+
+p {
+    font-family: 'Josefin Sans', sans-serif;
+    padding: 5px;
+}
+
+.row {
+    padding: 15px;
+    width: 100%;
+}
+
+.p-2 {
+    width: 600px;
+}
+
+.button-primary {
+    padding: 5px;
+    border-radius: 10px;
+}
+
+.container-fluid.header {
+    background-color: #E2D8FF;
+    height: 80px;
+}
+
+.container-fluid.blue {
+    background-color: #004C85; 
+}
+
+.text {
+    color: #E2D8FF;
+}
+
+.text-center {
+    padding: 5px;
+    display: block;
+}
+
+.text-center img {
+    border-radius: 20px;
+    padding-top: 10px;
+    padding: 10px;
+}
+
+.container-fluid text-center {
+    min-height: 50vh;
+}
+
+h1 {
+    font-family: 'Erica One', cursive;
+}
+
+.container-fluid {
+    padding-left: 0;
+    padding-right: 0;
+}
+
+.container-fluid.words {
+    padding-left: 10px;
+}
+
+.container-fluid.bottom {
+    background-color: #004C85;
+    padding-bottom: 0px;
+}
+
+.container-fluid.bottom {
+    height: 50px;
+    padding-bottom: 0px;
+}
+
+.bg-dark {
+    background-color: #004C85!important;
+
+
+
+
+
+
